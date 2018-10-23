@@ -85,7 +85,7 @@ function sshConnect() {
   ssh
     .connect({
      
-      host: '18.220.178.189',
+      host: '18.217.148.120',
       username: 'ubuntu',
       privateKey: 'todo-key.pem'
     })
